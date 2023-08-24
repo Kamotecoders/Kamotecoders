@@ -4,26 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Kamotecoders/Kamotecoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img width="100%" src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=gradient" style="max-width: 100%;">
-
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Aldrin...;A+Self+taught+Programmer...;I'm+a+JavaScript+Developer...;Cyber+Security+researcher...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 
 
 
----
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
-</p>
 
----
+
 
 ### :writing_hand: Codewars:
 [![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/aldrin112602)
@@ -43,14 +30,11 @@ You can click the Preview link to take a look at your changes.
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a
 - 🔭 I’m currently working on a JavaScript library called J3.JS, library that can be an alternative to JQuery
 
-- 💬 I’m currently learning Web Development Technologies
-- 👯 I’m looking for a part-time web developer
-- 🎓 Studying BSIT at [East System Colleges of Rizal](https://www.edukasyon.ph/schools/east-systems-colleges-of-rizal)
-- ⚙️ Major in Web Development
-- 🏭 Full Stack Web developer
-- ⌨️ Fluent in JavaScript
-- 🌱 Constantly learning and growing
- - How to reach me: <a href=”mailto:caballeroaldrin02@gmail.com”>caballeroaldrin02@gmail.com</a>
+- 💬 I’m currently learning Mobile Development 
+- 👯 I’m Freelancer part-time developer
+- 🏭 Full Stack developer
+- ⌨️ Fluent in JavaScript/C++/Java
+
  
  ---
  
