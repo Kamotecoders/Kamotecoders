@@ -16,15 +16,7 @@
 [![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/aldrin112602)
 
 
----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<a href="https://github.com/namcodes/github-readme-streak-stats">
-    <img align="right" alt="Aldrin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
 
 <a href="https://github.com/aldrin112602?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a
