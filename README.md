@@ -1,4 +1,4 @@
-# <p align=center>Hi there 👋 I'm @Kamotecoders Jowel D. Paña</p>
+# <p align=center>Hi there 👋 I'm @eutech.dev Jowel D. Paña</p>
 <p align=center>Aspiring Front end Developer</p>
 <br>
 - 👀 I’m interested in Mobile dev,Web Dev, Game Development 
