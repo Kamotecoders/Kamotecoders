@@ -11,12 +11,12 @@
 
 
 
-- 🔭 I’m currently working on a JavaScript library called J3.JS, library that can be an alternative to JQuery
+- 🔭 I’m currently working on a Game Development library called Game maker studio.Unity, Game Engine that can be an alternative to UE5
 
-- 💬 I’m currently learning Mobile Development 
+- 💬 I’m currently learning Mobile Development, Game Development & Web Development.
 - 👯 I’m Freelancer part-time developer
-- 🏭 Full Stack developer
-- ⌨️ Fluent in JavaScript/C++/Java
+- 🏭 I'm currently learning Full Stack developer
+- ⌨️ Fluent in JavaScript/C++/Java/HTML/Css
 
  
  ---
