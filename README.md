@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kamotecoders
+- 👋 Hi, I’m @EutechDotDev
 - 👀 I’m interested in Mobile dev,Web Dev, Game Development 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Eutech253@gmail.com
 
 
 
